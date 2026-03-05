@@ -55,8 +55,30 @@ Devian's recommendation: treat as initial research only. Focus on:
 - What Scanfil group ICT tools/frameworks are available to leverage? (Marriat to advise)
 - What is the ROI case for DISP certification?
 
+## Scanfil Group Policy — Baseline for Gap Analysis (added 2026-03-05)
+
+Scanfil's top-12 mandatory process announcement (2026-02-23) reveals that **three processes IT owns are mandatory for SRX as a new Scanfil site:**
+
+| Scanfil Process | DISP Relevance | Action |
+|----------------|---------------|--------|
+| IT/IS Security Policy | Core control framework baseline | Obtain from SMS; use as starting point for Essential Eight and ISO 27005 gap assessment |
+| Group Authorization Manual | Access control governance | Obtain from SMS; assess current SRX access management against it |
+| Security Incident and Breach Handling Process | Incident response — mandatory for DISP | Obtain from SMS; adopt or extend for SRX |
+
+**Critical implication:** Karen's gap analysis should cross-reference these Scanfil group policies **before** assessing gaps against DISP requirements. If the Scanfil group policy already satisfies some Essential Eight controls, the residual DISP gap is smaller than feared. This could significantly reduce the $24K consultant scope.
+
+See compliance note: `compliance/scanfil-sms-top-12-processes-mandatory-for-srx-new-site.md`
+
+## Open Questions
+
+- Is Christian part of the DCN (approval body) for DISP-related documentation?
+- What Scanfil group ICT tools/frameworks are available to leverage? (Marriat to advise)
+- What is the ROI case for DISP certification?
+- Do the Scanfil group IT/IS Security Policy and Security Incident Handling Process already satisfy any DISP/Essential Eight controls?
+
 ## Status History
 
 - 2026-01-21: DISP raised in Melbourne visit session with Devian
 - 2026-01-21: Karen assigned internal gap analysis (TODO captured)
 - 2026-01-21: Zafran identified SRX as a good fit for DISP
+- 2026-02-23: Scanfil published top-12 mandatory processes — IT/IS Security Policy, Group Authorization Manual, and Security Incident Handling are now mandatory baselines that inform the gap analysis

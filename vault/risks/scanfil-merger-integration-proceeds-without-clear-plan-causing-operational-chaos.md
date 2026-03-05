@@ -4,7 +4,7 @@ category: project
 likelihood: medium
 impact: critical
 status: active
-reviewed: 2026-01-21
+reviewed: 2026-03-05
 early_warnings:
   - "Nick Nicholson says 'I don't see the planning' regarding the Scanfil integration"
   - "Nick describes the situation as potentially becoming 'chaos'"
@@ -33,3 +33,10 @@ In the 2026-01-21 Melbourne visit session with Nick and Karen, Nick Nicholson ra
 Paul's approach described as "first PO and then invest" — suggesting a conservative, reactive investment stance.
 
 The production line is described as "high priority" — integration should not disrupt manufacturing operations.
+
+## Signal Log
+
+| Date | Signal | Source | Impact on Risk |
+|------|--------|--------|---------------|
+| 2026-01-21 | Nick Nicholson: "might be chaos", "I don't see the planning", no investment for new factories, something changed within 2 weeks | Melbourne visit, Nick/Karen session | Negative — raised the risk |
+| 2026-03-05 | Scanfil intranet announcement (published 2026-02-23): 38 mandatory business processes identified; top 12 released in SMS by 2026-02-26; SRXGlobal sites classified as "new sites" with formal integration obligations; in-depth SRXGlobal process training scheduled for spring 2026; integration led by an integration manager | Scanfil intranet news | **Partially mitigating** — confirms a structured integration framework exists with defined process obligations, integration management, and training schedule. However, this does not address Nick's investment/factory capability concern ($1M/year threshold). **Likelihood adjusted: medium retained** (process framework exists but operational implementation is unproven and the investment concern is unresolved). |
