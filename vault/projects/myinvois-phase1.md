@@ -6,6 +6,7 @@ go_live: 2026-02-28
 owner: "hsalazar / IT team"
 key_decisions:
   - decisions/adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois.md
+  - decisions/myinvois-is-current-top-priority-portal-project.md
 open_risks:
   - risks/certificate-expiry-blocks-myinvois-submission.md
   - risks/lhdn-myinvois-api-breaking-changes-before-go-live.md
@@ -72,3 +73,11 @@ SQL Server (SRX_AuditLog) — 7-year retention
 - Real-time submission trigger from MOVEX posting
 - Credit notes and debit notes
 - MOVEX-Portal integration for status visibility
+
+## Related
+
+- Decision: [[adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois|ADR-013 DB2 Direct Access]]
+- Risk: [[certificate-expiry-blocks-myinvois-submission|Certificate Expiry Risk]]
+- Compliance: [[lhdn-myinvois-sdk-v1-5|LHDN MyInvois SDK v1.5]]
+- Runbook: [[iis-deployment|IIS Deployment]]
+- M3 table: [[ohedco|OHEDCO — Customer Order Header]]

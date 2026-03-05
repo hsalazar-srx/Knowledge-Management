@@ -55,3 +55,10 @@ This decision should be reviewed if:
 - DB2 direct access is restricted by IT policy or licensing audit
 - Invoice volume grows beyond 10,000/month (M3 MI API may become preferable)
 - IFS migration project moves into active planning (IFS uses different data access patterns)
+
+## Related
+
+- Project: [[myinvois-phase1|MyInvois Phase 1]]
+- Compliance: [[lhdn-myinvois-sdk-v1-5|LHDN MyInvois SDK v1.5]]
+- Risk: [[certificate-expiry-blocks-myinvois-submission|Certificate Expiry Risk]]
+- M3 table: [[ohedco|OHEDCO — Customer Order Header]]

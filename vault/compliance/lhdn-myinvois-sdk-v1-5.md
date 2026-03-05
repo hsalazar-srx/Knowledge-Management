@@ -102,3 +102,9 @@ LHDN MyInvois SDK v1.5 defines the technical requirements for e-invoice submissi
 2. Run `/compliance-check` to identify affected decisions
 3. Create or update risk if any field changes affect SRX's submission format
 4. Update MyInvois-Service if schema changes require code changes
+
+## Related
+
+- Decision: [[adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois|ADR-013 DB2 Direct Access]]
+- Risk: [[certificate-expiry-blocks-myinvois-submission|Certificate Expiry Risk]]
+- Project: [[myinvois-phase1|MyInvois Phase 1]]

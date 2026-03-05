@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "3000a9861f6d7752",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cfad31bfeced88d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d9a5e9e73b5b8c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vendors/stargile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stargile"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4ac43626acd5513",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9bd377d7c936af6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fca6eca57fbe5b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82022f2327088314",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d057d7468176f778",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "4dbc5128cb156f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "49cb019959f33e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8175c89ce867655f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vendors/stargile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for stargile"
+            }
+          },
+          {
+            "id": "3f6510c4fae12b3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vendors/stargile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from stargile"
+            }
+          },
+          {
+            "id": "267bef80d58b9505",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7440dd3a800361d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ea6c62d191ecfdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vendors/stargile.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of stargile"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7d9a5e9e73b5b8c1",
+  "lastOpenFiles": [
+    "README.md",
+    "archive/transcripts/210126-visit-melbourne.md",
+    "archive/2026-01-20-21-melbourne-visit.md",
+    "vendors/stargile.md",
+    "m3-knowledge/transactions/pds001-part-revision-manual-update.md",
+    "risks/disp-ict-security-gaps-block-defence-contract-eligibility.md",
+    "risks/plm-low-adoption-creates-bom-data-quality-risk.md",
+    "risks/plm-low-adoption-creates-bom-data-quality-risk.md.tmp.534540.1772674583648",
+    "risks/mes-procedure-expiry-dates-not-aligned-with-scanfil-standard.md",
+    "risks/customer-order-delivery-confirmation-latency-exceeds-two-weeks.md",
+    "risks/xray-manual-movex-stock-update-creates-inventory-accuracy-risk.md",
+    "risks/scanfil-merger-integration-proceeds-without-clear-plan-causing-operational-chaos.md",
+    "projects/disp-defence-readiness.md",
+    "projects/plm-stargile-bom.md",
+    "decisions/plm-stargile-roadmap-and-ux-fixes-required-before-broader-adoption.md",
+    "decisions/disp-internal-gap-analysis-precedes-external-consultant-engagement.md",
+    "decisions/customer-otd-first-confirmed-date-is-official-kpi-for-2026.md",
+    "decisions/movex-is-single-source-of-truth-for-stock-balances.md",
+    "transcripts/210126-visit-melbourne.md",
+    "transcripts/220126-visit-melbourne",
+    "archive/transcripts/100226-order-type-update.md",
+    "archive/2026-02-11-order-type-update.md",
+    "risks/m3-output-management-misconfiguration-routes-documents-to-wrong-recipients.md",
+    "m3-knowledge/transactions/mns205-output-management.md",
+    "m3-knowledge/tables/fpledge-ap-purchase-ledger.md",
+    "m3-knowledge/tables/fsledge-ar-sales-ledger.md",
+    "decisions/order-type-100-must-not-be-used-mat-and-mto-are-approved-company-wide.md",
+    "transcripts/100226-order-type-update.md",
+    "README.md.tmp.389492.1772622437291",
+    "runbooks/iis-deployment.md.tmp.389492.1772622417795",
+    "m3-knowledge/tables/ohedco.md.tmp.389492.1772622410133",
+    "projects/myinvois-phase1.md.tmp.389492.1772622386351",
+    "decisions/adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois.md.tmp.389492.1772622365050",
+    "risks/domain-migration-orphaned-objects-contaminate-new-domain.md.tmp.446256.1772622327603"
+  ]
+}

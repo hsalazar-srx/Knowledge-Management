@@ -35,6 +35,7 @@ The risk is classified as **medium likelihood** because the first certificate wa
 
 ## Related
 
-- Project: [MyInvois Phase 1](../projects/myinvois-phase1.md)
-- Decision: [ADR-013](../decisions/adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois.md)
-- Runbook: [Certificate Management](../runbooks/certificate-management.md) (to be created)
+- Project: [[myinvois-phase1|MyInvois Phase 1]]
+- Decision: [[adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois|ADR-013 DB2 Direct Access]]
+- Compliance: [[lhdn-myinvois-sdk-v1-5|LHDN MyInvois SDK v1.5]]
+- Runbook: `runbooks/certificate-management.md` (to be created)

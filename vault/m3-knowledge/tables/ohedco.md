@@ -72,3 +72,8 @@ WHERE o.CONO = 100
 - **No soft delete** — cancelled orders use ORST = 90, not a deleted flag.
 - **CONO must always be included** — table is multi-company; forgetting CONO returns all companies' data.
 - **Trailing spaces** — text fields are fixed-width and padded with spaces. Always TRIM() in application code or queries.
+
+## Related
+
+- Projects: [[myinvois-phase1|MyInvois Phase 1]]
+- Decision: [[adr-013-db2-direct-access-preferred-over-m3-api-for-myinvois|ADR-013 DB2 Direct Access]]
